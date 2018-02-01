@@ -1,9 +1,5 @@
 --------------------------------------------------------------------------------
--- 1. Implémentation d'un paquetage de fractions et d'un programme de test.-----
--- 2. Implémentation d'un paquetage de polynômes à coefficients fractionnaires--
--- et d'un programme de test.--
--- 3. Utilisation des paquetages de fractions et de polynômes pour une--
--- Implémentation D’Un Code De Reed-Solomon.--
+-- Implémentation d'un paquetage de fractions et d'un programme de test.-----
 --------------------------------------------------------------------------------
 
 With Ada.Text_Io; Use Ada.Text_Io;
